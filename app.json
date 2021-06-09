@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Learning React Native by building a Foking Weather App",
+    "githubUrl": "https://github.com/hayami226/fokin-weather"
   }
 }
